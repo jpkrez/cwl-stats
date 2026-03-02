@@ -2,6 +2,8 @@
 
 Player-level match statistics from the **Call of Duty World League (CWL)** across four competitive seasons. Each row represents one player's performance in a single map/match.
 
+The 2018 WWII season also includes **full structured JSON data** — one file per map played — with rich detail including hill rotations, round-by-round scores, team sides, and per-player breakdowns not available in the CSV format.
+
 Data covers LAN events and select online leagues from the first four years of the CWL era.
 
 ---
@@ -43,18 +45,20 @@ Data covers LAN events and select online leagues from the first four years of th
 | `fix/MLG_Vegas_2016.csv` | CWL Vegas (Dec 2016 – IW season opener) |
 
 ### 2018 – WWII
-| File | Event |
-|------|-------|
-| `data-2017-12-10-dallas.csv` | CWL Dallas |
-| `data-2018-01-14-neworleans.csv` | CWL New Orleans |
-| `data-2018-03-11-atlanta.csv` | CWL Atlanta |
-| `data-2018-04-01-birmingham.csv` | CWL Birmingham |
-| `data-2018-04-08-proleague1.csv` | Pro League Stage 1 |
-| `data-2018-04-19-relegation.csv` | Pro League Relegation |
-| `data-2018-04-22-seattle.csv` | CWL Seattle |
-| `data-2018-06-17-anaheim.csv` | CWL Anaheim |
-| `data-2018-07-29-proleague2.csv` | Pro League Stage 2 |
-| `data-2018-08-19-champs.csv` | CWL Championship |
+| File | Event | Structured JSON |
+|------|-------|----------------|
+| `data-2017-12-10-dallas.csv` | CWL Dallas | `structured/structured-2017-12-10-dallas/` (269 files) |
+| `data-2018-01-14-neworleans.csv` | CWL New Orleans | `structured/structured-2018-01-14-neworleans/` (280 files) |
+| `data-2018-03-11-atlanta.csv` | CWL Atlanta | `structured/structured-2018-03-11-atlanta/` (277 files) |
+| `data-2018-04-01-birmingham.csv` | CWL Birmingham | `structured/structured-2018-04-01-birmingham/` (164 files) |
+| `data-2018-04-08-proleague1.csv` | Pro League Stage 1 | `structured/structured-2018-04-08-proleague1/` (506 files) |
+| `data-2018-04-19-relegation.csv` | Pro League Relegation | `structured/structured-2018-04-19-relegation/` (39 files) |
+| `data-2018-04-22-seattle.csv` | CWL Seattle | `structured/structured-2018-04-22-seattle/` (272 files) |
+| `data-2018-06-17-anaheim.csv` | CWL Anaheim | `structured/structured-2018-06-17-anaheim/` (270 files) |
+| `data-2018-07-29-proleague2.csv` | Pro League Stage 2 | `structured/structured-2018-07-29-proleague2/` (508 files) |
+| `data-2018-08-19-champs.csv` | CWL Championship | `structured/structured-2018-08-19-champs/` (296 files) |
+
+Each CSV event has a corresponding `structured/` folder with one JSON file per map played (2,881 files total).
 
 ### 2019 – Black Ops 4
 | File | Event |
@@ -101,12 +105,37 @@ Columns vary slightly by year as the game and stat-tracking system evolved, but 
 
 ---
 
+## Structured JSON Format (2018 WWII only)
+
+Each JSON file in `2018-WWII/structured/` represents one map played. File names follow the pattern `structured-{unix_timestamp}-{match_id}.json`.
+
+Top-level fields:
+
+| Field | Description |
+|-------|-------------|
+| `id` | Match UUID |
+| `series_id` | Series identifier (e.g. `champs-pool-A-3`) |
+| `mode` | Game mode |
+| `map` | Map name |
+| `start_time_s` / `end_time_s` | Unix timestamps |
+| `duration_ms` | Map duration in milliseconds |
+| `platform` | Platform (ps4) |
+| `hp_hill_names` | Hardpoint only — ordered hill names |
+| `hp_hill_rotations` | Hardpoint only — number of hill rotations |
+| `teams` | Array of two team objects (name, score, is_victor, round_scores, side) |
+| `players` | Array of player stat objects |
+
+Each `players` entry contains kills, deaths, assists, accuracy, weapon preferences, scorestreaks, hill time, S&D stats, and more — mirroring and extending the CSV columns.
+
+---
+
 ## Notes
 
-- All data is per-player per-map (one row = one player in one map)
+- All CSV data is per-player per-map (one row = one player in one map)
 - 2016 data uses a slightly different schema (no series IDs, simplified columns)
 - The `fix/` subfolder in 2017-IW contains a corrected file for CWL Vegas
 - The `Full/BO4_Full.csv` in 2019 is a combined/merged version of all BO4 events
+- Structured JSON is only available for the 2018 WWII season
 
 ---
 
