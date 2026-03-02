@@ -1,5 +1,7 @@
 # CWL Stats (2016–2019)
 
+All data recovered by Activision's backend while I was working for MLG during the 2016-2019
+
 Player-level match statistics from the **Call of Duty World League (CWL)** across four competitive seasons. Each row represents one player's performance in a single map/match.
 
 The 2018 WWII season also includes **full structured JSON data** — one file per map played — with rich detail including hill rotations, round-by-round scores, team sides, and per-player breakdowns not available in the CSV format.
