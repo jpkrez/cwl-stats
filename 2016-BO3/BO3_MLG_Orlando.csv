@@ -1,0 +1,841 @@
+id,event,setting,mode,map,team,spec,player,player_score,kills,deaths,obj1,obj2,team_score,opponent,opponent_score
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Kinetic A,Apathy,NA,32,32,1:16,NA,250,Elevate,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Tempest,SlasheR,NA,31,33,0:51,NA,250,Elevate,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Active C,JKap,NA,41,31,1:39,NA,250,Elevate,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Heat Wave,John,NA,34,33,2:10,NA,250,Elevate,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Tempest,Aqua,NA,38,36,0:39,NA,250,Team Envy,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Heat Wave,Nagafen,NA,30,32,1:04,NA,250,Team Envy,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Kinetic A,FeLonY,NA,29,33,1:46,NA,250,Team Envy,220
+MLG_Orlando_Team Envy_Elevate_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Active C,Faccento,NA,32,37,1:10,NA,250,Team Envy,220
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Envy,Heat Wave,Apathy,NA,5,5,1,NA,6,Elevate,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Envy,Active C,SlasheR,NA,8,6,0,NA,6,Elevate,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Envy,Psychosis,JKap,NA,7,4,1,NA,6,Elevate,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Envy,Glitch,John,NA,7,4,0,NA,6,Elevate,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Heat Wave,Aqua,NA,6,7,0,NA,6,Team Envy,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Active C,Nagafen,NA,1,7,0,NA,6,Team Envy,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Kinetic A,FeLonY,NA,5,6,2,NA,6,Team Envy,2
+MLG_Orlando_Team Envy_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Glitch,Faccento,NA,7,7,0,NA,6,Team Envy,2
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Kinetic A,Apathy,NA,19,23,1,NA,11,Elevate,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Tempest,SlasheR,NA,24,23,0,NA,11,Elevate,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Active C,JKap,NA,18,21,2,NA,11,Elevate,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Heat Wave,John,NA,24,23,1,NA,11,Elevate,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Elevate,Tempest,Aqua,NA,33,22,1,NA,11,Team Envy,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Elevate,Heat Wave,Nagafen,NA,25,21,4,NA,11,Team Envy,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Elevate,Kinetic A,FeLonY,NA,19,21,0,NA,11,Team Envy,16
+MLG_Orlando_Team Envy_Elevate_3,MLG_Orlando,LAN,Uplink,Evac,Elevate,Active C,Faccento,NA,13,21,1,NA,11,Team Envy,16
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Kinetic A,Apathy,NA,21,14,1,NA,2,Elevate,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Tempest,SlasheR,NA,21,22,1,NA,2,Elevate,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Active C,JKap,NA,22,20,0,NA,2,Elevate,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Heat Wave,John,NA,26,21,0,NA,2,Elevate,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Elevate,Tempest,Aqua,NA,22,20,0,NA,2,Team Envy,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Elevate,Active C,Nagafen,NA,21,25,0,NA,2,Team Envy,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Elevate,Kinetic A,FeLonY,NA,20,21,1,NA,2,Team Envy,1
+MLG_Orlando_Team Envy_Elevate_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Elevate,Heat Wave,Faccento,NA,14,24,0,NA,2,Team Envy,1
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Envy,Heat Wave,John,5125,29,23,2:22,6,250,eUnited,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Envy,Tempest,SlasheR,3200,28,20,0:28,0,250,eUnited,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Envy,Active C,JKap,4375,31,25,1:27,12,250,eUnited,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Envy,Psychosis,Apathy,3885,31,18,1:17,8,250,eUnited,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,eUnited,Tempest,Whea7s,3300,24,28,0:32,6,250,Team Envy,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,eUnited,Psychosis,Ivy,3150,18,33,0:52,7,250,Team Envy,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,eUnited,Heat Wave,Burns,2875,23,28,0:19,6,250,Team Envy,118
+MLG_Orlando_Team Envy_eUnited_1,MLG_Orlando,LAN,Hardpoint,Evac,eUnited,Active C,Pacman,3275,21,32,0:52,9,250,Team Envy,118
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Glitch,John,1100,8,6,1,0,5,eUnited,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Active C,SlasheR,1200,8,6,1,1,5,eUnited,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Psychosis,JKap,570,5,7,0,0,5,eUnited,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Heat Wave,Apathy,1150,9,6,1,0,5,eUnited,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,eUnited,Active C,Whea7s,660,6,9,0,0,5,Team Envy,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,eUnited,Kinetic A,Ivy,1275,9,7,2,0,5,Team Envy,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,eUnited,Heat Wave,Burns,725,5,6,0,1,5,Team Envy,6
+MLG_Orlando_Team Envy_eUnited_2,MLG_Orlando,LAN,Search and Destroy,Breach,eUnited,Psychosis,Pacman,750,5,8,0,1,5,Team Envy,6
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Heat Wave,John,3425,26,18,1,1,14,eUnited,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Tempest,SlasheR,2575,22,23,1,0,14,eUnited,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Active C,JKap,3050,28,19,1,0,14,eUnited,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Kinetic A,Apathy,3450,24,24,3,1,14,eUnited,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,eUnited,Active C,Whea7s,2300,20,28,1,0,14,Team Envy,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,eUnited,Kinetic A,Ivy,2400,20,25,0,0,14,Team Envy,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,eUnited,Heat Wave,Burns,2675,19,22,2,0,14,Team Envy,8
+MLG_Orlando_Team Envy_eUnited_3,MLG_Orlando,LAN,Uplink,Fringe,eUnited,Tempest,Pacman,3000,25,25,1,0,14,Team Envy,8
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Team Envy,Heat Wave,John,2450,23,13,1,1,6,eUnited,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Team Envy,Tempest,SlasheR,3075,19,14,2,0,6,eUnited,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Team Envy,Psychosis,JKap,2600,18,14,1,0,6,eUnited,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Team Envy,Active C,Apathy,3075,22,13,2,1,6,eUnited,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,eUnited,Vision P,Whea7s,1950,15,19,0,1,6,Team Envy,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,eUnited,Heat Wave,Ivy,1425,10,24,0,1,6,Team Envy,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,eUnited,Active C,Burns,1385,10,19,0,2,6,Team Envy,0
+MLG_Orlando_Team Envy_eUnited_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,eUnited,Tempest,Pacman,2300,17,21,0,0,6,Team Envy,0
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Active C,JKap,NA,18,21,1:04,NA,250,BitterSweet,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Kinetic A,Apathy,NA,26,17,1:32,NA,250,BitterSweet,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Tempest,SlasheR,NA,35,17,0:58,NA,250,BitterSweet,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Purifier,John,NA,25,22,1:33,NA,250,BitterSweet,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,BitterSweet,Kinetic A,Copier,NA,25,28,1:04,NA,250,Team Envy,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,BitterSweet,Active C,Hippi,NA,26,21,1:05,NA,250,Team Envy,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,BitterSweet,Purifier,Buck,NA,14,26,0:08,NA,250,Team Envy,131
+MLG_Orlando_Team Envy_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Breach,BitterSweet,Scythe,Quality,NA,12,31,0:29,NA,250,Team Envy,131
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Psychosis,JKap,NA,6,6,2,NA,4,BitterSweet,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Heat Wave,Apathy,NA,10,8,1,NA,4,BitterSweet,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Active C,SlasheR,NA,9,8,0,NA,4,BitterSweet,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Glitch,John,NA,5,8,0,NA,4,BitterSweet,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,BitterSweet,Kinetic A,Copier,NA,6,10,0,NA,4,Team Envy,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,BitterSweet,Active C,Hippi,NA,10,6,0,NA,4,Team Envy,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,BitterSweet,Heat Wave,Buck,NA,6,7,0,NA,4,Team Envy,6
+MLG_Orlando_Team Envy_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Fringe,BitterSweet,Glitch,Quality,NA,8,7,0,NA,4,Team Envy,6
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Active C,JKap,NA,21,16,3,NA,13,BitterSweet,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Kinetic A,Apathy,NA,27,13,1,NA,13,BitterSweet,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Tempest,SlasheR,NA,34,16,0,NA,13,BitterSweet,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Heat Wave,John,NA,16,24,1,NA,13,BitterSweet,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,BitterSweet,Kinetic A,Copier,NA,15,25,0,NA,13,Team Envy,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,BitterSweet,Active C,Hippi,NA,26,24,0,NA,13,Team Envy,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,BitterSweet,Heat Wave,Buck,NA,13,24,0,NA,13,Team Envy,0
+MLG_Orlando_Team Envy_BitterSweet_3,MLG_Orlando,LAN,Uplink,Infection,BitterSweet,Scythe,Quality,NA,15,25,0,NA,13,Team Envy,0
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Envy,Psychosis,JKap,NA,23,13,0,NA,3,BitterSweet,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Envy,Kinetic A,Apathy,NA,20,15,1,NA,3,BitterSweet,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Envy,Tempest,SlasheR,NA,16,11,1,NA,3,BitterSweet,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Envy,Heat Wave,John,NA,16,16,1,NA,3,BitterSweet,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,BitterSweet,Kinetic A,Copier,NA,22,21,0,NA,3,Team Envy,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,BitterSweet,Tempest,Hippi,NA,17,18,0,NA,3,Team Envy,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,BitterSweet,Heat Wave,Buck,NA,6,18,0,NA,3,Team Envy,1
+MLG_Orlando_Team Envy_BitterSweet_4,MLG_Orlando,LAN,Capture the Flag,Evac,BitterSweet,Scythe,Quality,NA,10,19,1,NA,3,Team Envy,1
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Psychosis,Nagafen,4875,29,23,2:02,9,250,BitterSweet,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Kinetic A,FeLonY,4850,32,26,1:49,12,250,BitterSweet,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Scythe,Aqua,5675,39,27,1:00,11,250,BitterSweet,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Active C,Faccento,3925,27,22,1:01,6,250,BitterSweet,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,BitterSweet,Purifier,Buck,3200,18,34,0:44,2,250,Elevate,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,BitterSweet,Kinetic A,Copier,4750,29,32,0:52,11,250,Elevate,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,BitterSweet,Active C,Hippi,4375,24,32,0:49,11,250,Elevate,127
+MLG_Orlando_Elevate_BitterSweet_1,MLG_Orlando,LAN,Hardpoint,Evac,BitterSweet,Scythe,Quality,3875,26,30,0:54,10,250,Elevate,127
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Active C,Nagafen,1075,8,2,1,1,6,BitterSweet,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Kinetic A,FeLonY,700,7,4,0,0,6,BitterSweet,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Heat Wave,Aqua,900,8,3,0,0,6,BitterSweet,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Glitch,Faccento,525,3,4,1,0,6,BitterSweet,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,BitterSweet,Heat Wave,Buck,525,5,7,0,0,6,Elevate,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,BitterSweet,Kinetic A,Copier,100,1,7,0,0,6,Elevate,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,BitterSweet,Active C,Hippi,475,3,6,1,0,6,Elevate,1
+MLG_Orlando_Elevate_BitterSweet_2,MLG_Orlando,LAN,Search and Destroy,Breach,BitterSweet,Glitch,Quality,450,4,6,0,0,6,Elevate,1
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Active C,Nagafen,3075,20,24,3,0,21,BitterSweet,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Kinetic A,FeLonY,3150,21,21,2,2,21,BitterSweet,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Tempest,Aqua,3750,31,22,1,1,21,BitterSweet,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Heat Wave,Faccento,3175,22,22,1,4,21,BitterSweet,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,BitterSweet,Heat Wave,Buck,2375,21,21,0,0,21,Elevate,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,BitterSweet,Kinetic A,Copier,3150,28,26,0,0,21,Elevate,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,BitterSweet,Active C,Hippi,2550,19,22,1,0,21,Elevate,5
+MLG_Orlando_Elevate_BitterSweet_3,MLG_Orlando,LAN,Uplink,Fringe,BitterSweet,Scythe,Quality,2850,21,25,1,1,21,Elevate,5
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,H2k-Gaming,Tempest,FEARS,0,23,19,0:43,2,250,Team Infused,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,H2k-Gaming,Active C,Dedo,0,19,21,0:30,5,250,Team Infused,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,H2k-Gaming,Kinetic A,Legal,0,24,8,3:07,7,250,Team Infused,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,H2k-Gaming,Purifier,PHiZZURP,0,31,16,1:26,6,250,Team Infused,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Infused,Tempest,Zer0,0,15,20,0:44,2,250,H2k-Gaming,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Infused,Kinetic A,Peatie,0,21,27,0:23,6,250,H2k-Gaming,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Infused,Psychosis,MarkyB,0,15,25,0:12,4,250,H2k-Gaming,88
+MLG_Orlando_H2k-Gaming_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Infused,Active C,Urban,0,13,27,0:26,2,250,H2k-Gaming,88
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,H2k-Gaming,Glitch,FEARS,1025,8,2,0,0,6,Team Infused,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,H2k-Gaming,Active C,Dedo,800,6,4,0,0,6,Team Infused,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,H2k-Gaming,Kinetic A,Legal,775,5,4,1,0,6,Team Infused,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,H2k-Gaming,Overdrive,PHiZZURP,1300,10,3,1,1,6,Team Infused,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Infused,Active C,Zer0,750,6,7,0,1,6,H2k-Gaming,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Infused,Kinetic A,Peatie,275,2,8,0,0,6,H2k-Gaming,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Infused,Overdrive,MarkyB,100,1,7,0,0,6,H2k-Gaming,2
+MLG_Orlando_H2k-Gaming_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Infused,Glitch,Urban,600,4,7,1,0,6,H2k-Gaming,2
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,H2k-Gaming,Annihilator,FEARS,2725,22,21,0,0,3,Team Infused,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,H2k-Gaming,Tempest,Dedo,2575,25,28,0,0,3,Team Infused,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,H2k-Gaming,Active C,Legal,2075,15,28,1,1,3,Team Infused,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,H2k-Gaming,Kinetic A,PHiZZURP,2075,18,26,0,0,3,Team Infused,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,Team Infused,Tempest,Zer0,3925,34,20,1,0,3,H2k-Gaming,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,Team Infused,Kinetic A,Peatie,2500,16,23,2,3,3,H2k-Gaming,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,Team Infused,Psychosis,MarkyB,3475,26,21,2,0,3,H2k-Gaming,18
+MLG_Orlando_H2k-Gaming_Team Infused_3,MLG_Orlando,LAN,Uplink,Infection,Team Infused,Active C,Urban,3700,27,16,2,1,3,H2k-Gaming,18
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,H2k-Gaming,Tempest,FEARS,2010,14,22,0,0,2,Team Infused,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,H2k-Gaming,Psychosis,Dedo,2475,16,13,1,2,2,Team Infused,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,H2k-Gaming,Active C,Legal,2025,15,20,0,3,2,Team Infused,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,H2k-Gaming,Vision P,PHiZZURP,2575,17,20,1,0,2,Team Infused,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Infused,Tempest,Zer0,2320,19,12,0,1,2,H2k-Gaming,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Infused,Active C,Peatie,2875,21,16,2,1,2,H2k-Gaming,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Infused,Scythe,MarkyB,1825,11,13,1,0,2,H2k-Gaming,3
+MLG_Orlando_H2k-Gaming_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Evac,Team Infused,Psychosis,Urban,2725,24,22,0,0,2,H2k-Gaming,3
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,H2k-Gaming,Glitch,FEARS,1100,9,7,1,0,5,Team Infused,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,H2k-Gaming,Overdrive,Dedo,900,8,9,0,0,5,Team Infused,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,H2k-Gaming,Kinetic A,Legal,400,3,8,0,0,5,Team Infused,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,H2k-Gaming,Heat Wave,PHiZZURP,1425,7,9,1,1,5,Team Infused,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Infused,Heat Wave,Zer0,675,6,7,0,0,5,H2k-Gaming,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Infused,Kinetic A,Peatie,925,5,7,3,0,5,H2k-Gaming,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Infused,Psychosis,MarkyB,1550,12,5,0,0,5,H2k-Gaming,6
+MLG_Orlando_H2k-Gaming_Team Infused_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Infused,Glitch,Urban,1175,10,8,1,0,5,H2k-Gaming,6
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,NA,Chino,NA,35,38,1:00,NA,158,Team Infused,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,NA,Sender,NA,25,36,0:53,NA,158,Team Infused,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,NA,KiLLa,NA,23,40,1:08,NA,158,Team Infused,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,NA,Diabolic,NA,32,29,1:00,NA,158,Team Infused,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Infused,NA,Urban,NA,38,27,2:21,NA,158,Ground Zero,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Infused,NA,Peatie,NA,40,31,1:17,NA,158,Ground Zero,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Infused,NA,MarkyB,NA,26,27,0:43,NA,158,Ground Zero,250
+MLG_Orlando_Ground Zero_Team Infused_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Infused,NA,Zer0,NA,39,30,0:41,NA,158,Ground Zero,250
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Ground Zero,NA,Chino,NA,7,7,0,NA,6,Team Infused,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Ground Zero,NA,Sender,NA,6,5,1,NA,6,Team Infused,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Ground Zero,NA,KiLLa,NA,3,6,0,NA,6,Team Infused,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Ground Zero,NA,Diabolic,NA,14,4,3,NA,6,Team Infused,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Infused,NA,Urban,NA,7,7,0,NA,6,Ground Zero,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Infused,NA,Peatie,NA,1,9,1,NA,6,Ground Zero,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Infused,NA,MarkyB,NA,7,7,0,NA,6,Ground Zero,5
+MLG_Orlando_Ground Zero_Team Infused_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Infused,NA,Zer0,NA,7,6,1,NA,6,Ground Zero,5
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,NA,Chino,NA,21,20,0,NA,3,Team Infused,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,NA,Sender,NA,20,25,0,NA,3,Team Infused,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,NA,KiLLa,NA,26,22,0,NA,3,Team Infused,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,NA,Diabolic,NA,20,24,1,NA,3,Team Infused,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Team Infused,NA,Urban,NA,26,21,2,NA,3,Ground Zero,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Team Infused,NA,Peatie,NA,25,23,4,NA,3,Ground Zero,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Team Infused,NA,MarkyB,NA,19,23,0,NA,3,Ground Zero,18
+MLG_Orlando_Ground Zero_Team Infused_3,MLG_Orlando,LAN,Uplink,Evac,Team Infused,NA,Zer0,NA,21,20,0,NA,3,Ground Zero,18
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,NA,Chino,NA,15,18,0,NA,1,Team Infused,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,NA,Sender,NA,18,15,0,NA,1,Team Infused,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,NA,KiLLa,NA,22,17,1,NA,1,Team Infused,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,NA,Diabolic,NA,14,19,0,NA,1,Team Infused,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Infused,NA,Urban,NA,23,18,1,NA,1,Ground Zero,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Infused,NA,Peatie,NA,19,26,0,NA,1,Ground Zero,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Infused,NA,MarkyB,NA,14,10,0,NA,1,Ground Zero,2
+MLG_Orlando_Ground Zero_Team Infused_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Infused,NA,Zer0,NA,13,15,1,NA,1,Ground Zero,2
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Infused,Kinetic A,Peatie,6150,39,38,1:07,8,250,Apotheon Esports,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Infused,Active C,MarkyB,5150,33,37,0:48,10,250,Apotheon Esports,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Infused,Heat Wave,Urban,7250,51,32,2:26,17,250,Apotheon Esports,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Team Infused,Tempest,Zer0,5125,38,37,0:49,5,250,Apotheon Esports,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Apotheon Esports,Heat Wave,Matt,6375,42,43,1:09,10,250,Team Infused,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Apotheon Esports,Active C,Arcitys,5500,37,38,1:35,10,250,Team Infused,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Apotheon Esports,Tempest,Prestinni,5700,38,36,1:24,8,250,Team Infused,206
+MLG_Orlando_Team Infused_Apotheon Esports_1,MLG_Orlando,LAN,Hardpoint,Evac,Apotheon Esports,Kinetic A,Destiny,3875,26,47,0:52,5,250,Team Infused,206
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Infused,Kinetic A,Peatie,975,8,7,1,0,6,Apotheon Esports,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Infused,Overdrive,MarkyB,475,3,8,0,0,6,Apotheon Esports,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Infused,Heat Wave,Urban,950,9,7,0,0,6,Apotheon Esports,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Infused,Active C,Zer0,1150,7,4,2,1,6,Apotheon Esports,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Apotheon Esports,Overdrive,Matt,975,6,7,1,0,6,Team Infused,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Apotheon Esports,Kinetic A,Arcitys,550,4,7,0,0,6,Team Infused,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Apotheon Esports,Active C,Prestinni,900,8,7,0,0,6,Team Infused,3
+MLG_Orlando_Team Infused_Apotheon Esports_2,MLG_Orlando,LAN,Search and Destroy,Breach,Apotheon Esports,Heat Wave,Destiny,975,8,6,1,0,6,Team Infused,3
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Team Infused,Kinetic A,Peatie,2050,16,27,0,1,9,Apotheon Esports,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Team Infused,Psychosis,MarkyB,2950,27,23,0,0,9,Apotheon Esports,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Team Infused,Heat Wave,Urban,3500,27,22,1,0,9,Apotheon Esports,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Team Infused,Tempest,Zer0,3125,23,23,2,0,9,Apotheon Esports,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Apotheon Esports,Heat Wave,Matt,2675,22,24,1,0,9,Team Infused,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Apotheon Esports,Psychosis,Arcitys,3320,28,19,1,0,9,Team Infused,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Apotheon Esports,Tempest,Prestinni,3275,23,25,2,0,9,Team Infused,7
+MLG_Orlando_Team Infused_Apotheon Esports_3,MLG_Orlando,LAN,Uplink,Fringe,Apotheon Esports,Kinetic A,Destiny,2700,22,25,0,0,9,Team Infused,7
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Tempest,Clayster,NA,33,23,0:33,NA,250,compLexity Gaming,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Heat Wave,Attach,NA,19,21,1:33,NA,250,compLexity Gaming,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Active C,ZooMaa,NA,22,20,1:45,NA,250,compLexity Gaming,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Kinetic A,Enable,NA,26,19,1:50,NA,250,compLexity Gaming,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,compLexity Gaming,Kinetic A,Lacefield,NA,23,23,1:37,NA,250,FaZe Clan,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,compLexity Gaming,Active C,ACHES,NA,18,25,0:54,NA,250,FaZe Clan,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,compLexity Gaming,Heat Wave,Ricky,NA,24,25,1:09,NA,250,FaZe Clan,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Breach,compLexity Gaming,Tempest,Accuracy,NA,17,27,0:13,NA,250,FaZe Clan,171
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,FaZe Clan,Glitch,Clayster,NA,6,9,0,NA,6,compLexity Gaming,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,FaZe Clan,Heat Wave,Attach,NA,5,11,0,NA,6,compLexity Gaming,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,FaZe Clan,Active C,ZooMaa,NA,16,6,0,NA,6,compLexity Gaming,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,FaZe Clan,Psychosis,Enable,NA,8,6,1,NA,6,compLexity Gaming,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,compLexity Gaming,Kinetic A,Lacefield,NA,9,9,0,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,compLexity Gaming,Active C,ACHES,NA,8,7,0,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,compLexity Gaming,Heat Wave,Ricky,NA,10,10,2,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Fringe,compLexity Gaming,Psychosis,Accuracy,NA,5,9,1,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Tempest,Clayster,NA,28,26,0,NA,7,compLexity Gaming,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Kinetic A,Attach,NA,24,25,0,NA,7,compLexity Gaming,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Psychosis,ZooMaa,NA,30,24,0,NA,7,compLexity Gaming,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Heat Wave,Enable,NA,23,26,0,NA,7,compLexity Gaming,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,compLexity Gaming,Kinetic A,Lacefield,NA,33,23,2,NA,7,FaZe Clan,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,compLexity Gaming,Psychosis,ACHES,NA,21,27,0,NA,7,FaZe Clan,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,compLexity Gaming,Heat Wave,Ricky,NA,22,27,0,NA,7,FaZe Clan,6
+MLG_Orlando_FaZe Clan_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Infection,compLexity Gaming,Tempest,Accuracy,NA,24,28,0,NA,7,FaZe Clan,6
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Active C,Classic,4250,30,19,1:31,6,250,compLexity Gaming,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Scythe,Octane,4400,30,19,1:13,5,250,compLexity Gaming,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Kinetic A,Slacked,4225,32,19,2:18,4,250,compLexity Gaming,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Heat Wave,Loony,3300,27,21,0:44,3,250,compLexity Gaming,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,compLexity Gaming,Tempest,Accuracy,3325,21,30,1:12,5,250,Rise Nation,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,compLexity Gaming,Active C,ACHES,2475,18,28,0:25,6,250,Rise Nation,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,compLexity Gaming,Heat Wave,Ricky,3150,21,29,0:29,2,250,Rise Nation,127
+MLG_Orlando_Rise Nation_compLexity Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,compLexity Gaming,Kinetic A,Lacefield,2425,18,32,0:22,5,250,Rise Nation,127
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Active C,Classic,1500,12,4,0,1,6,compLexity Gaming,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Psychosis,Octane,1000,7,8,0,0,6,compLexity Gaming,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Kinetic A,Slacked,1425,7,6,4,0,6,compLexity Gaming,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Heat Wave,Loony,550,4,9,0,0,6,compLexity Gaming,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,compLexity Gaming,Psychosis,Accuracy,1600,13,7,2,0,6,Rise Nation,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,compLexity Gaming,Active C,ACHES,600,5,7,0,0,6,Rise Nation,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,compLexity Gaming,Heat Wave,Ricky,525,3,7,0,0,6,Rise Nation,4
+MLG_Orlando_Rise Nation_compLexity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,compLexity Gaming,Kinetic A,Lacefield,710,6,9,1,0,6,Rise Nation,4
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Active C,Classic,2850,19,22,2,2,20,compLexity Gaming,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Scythe,Octane,3250,26,20,1,1,20,compLexity Gaming,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Kinetic A,Slacked,3675,31,15,0,3,20,compLexity Gaming,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Psychosis,Loony,2875,19,18,3,2,20,compLexity Gaming,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,compLexity Gaming,Tempest,Accuracy,2175,18,25,0,1,20,Rise Nation,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,compLexity Gaming,Active C,ACHES,1500,11,26,0,0,20,Rise Nation,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,compLexity Gaming,Psychosis,Ricky,2325,20,24,1,0,20,Rise Nation,3
+MLG_Orlando_Rise Nation_compLexity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,compLexity Gaming,Kinetic A,Lacefield,2925,26,20,0,0,20,Rise Nation,3
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Active C,Classic,NA,27,36,1:58,NA,250,FaZe Clan,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Scythe,Octane,NA,35,32,0:35,NA,250,FaZe Clan,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Heat Wave,Loony,NA,29,35,1:05,NA,250,FaZe Clan,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Kinetic A,Slacked,NA,52,31,1:40,NA,250,FaZe Clan,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,FaZe Clan,Kinetic A,Enable,NA,34,36,1:10,NA,250,Rise Nation,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,FaZe Clan,Tempest,Clayster,NA,32,39,0:51,NA,250,Rise Nation,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,FaZe Clan,Active C,ZooMaa,NA,29,36,1:19,NA,250,Rise Nation,224
+MLG_Orlando_Rise Nation_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Evac,FaZe Clan,Heat Wave,Attach,NA,39,32,1:30,NA,250,Rise Nation,224
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Active C,Classic,NA,4,6,1,NA,2,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Glitch,Octane,NA,6,7,1,NA,2,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Heat Wave,Loony,NA,2,6,0,NA,2,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Kinetic A,Slacked,NA,7,6,1,NA,2,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,FaZe Clan,Psychosis,Enable,NA,5,4,3,NA,2,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,FaZe Clan,Glitch,Clayster,NA,11,4,0,NA,2,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,FaZe Clan,Active C,ZooMaa,NA,2,7,0,NA,2,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Breach,FaZe Clan,Heat Wave,Attach,NA,6,5,0,NA,2,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Psychosis,Classic,NA,23,26,1,NA,8,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Scythe,Octane,NA,21,28,0,NA,8,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Heat Wave,Loony,NA,28,19,1,NA,8,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Kinetic A,Slacked,NA,24,21,0,NA,8,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,FaZe Clan,Kinetic A,Enable,NA,24,25,0,NA,8,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,FaZe Clan,Psychosis,Clayster,NA,27,25,0,NA,8,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,FaZe Clan,Scythe,ZooMaa,NA,23,24,1,NA,8,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Fringe,FaZe Clan,Heat Wave,Attach,NA,20,22,1,NA,8,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Rise Nation,Psychosis,Classic,NA,17,19,0,NA,0,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Rise Nation,Scythe,Octane,NA,13,22,0,NA,0,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Rise Nation,Heat Wave,Loony,NA,15,19,0,NA,0,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Rise Nation,Kinetic A,Slacked,NA,14,17,0,NA,0,FaZe Clan,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,FaZe Clan,Kinetic A,Enable,NA,15,13,2,NA,0,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,FaZe Clan,Tempest,Clayster,NA,22,12,1,NA,0,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,FaZe Clan,Scythe,ZooMaa,NA,24,12,2,NA,0,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,FaZe Clan,Heat Wave,Attach,NA,16,22,0,NA,0,Rise Nation,5
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Active C,Classic,NA,2,8,0,NA,3,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Glitch,Octane,NA,13,6,0,NA,3,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Heat Wave,Loony,NA,3,9,1,NA,3,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Kinetic A,Slacked,NA,8,8,0,NA,3,FaZe Clan,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,FaZe Clan,Psychosis,Enable,NA,11,5,4,NA,3,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,FaZe Clan,Glitch,Clayster,NA,7,8,1,NA,3,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,FaZe Clan,Active C,ZooMaa,NA,7,6,0,NA,3,Rise Nation,6
+MLG_Orlando_Rise Nation_FaZe Clan_5,MLG_Orlando,LAN,Search and Destroy,Hunted,FaZe Clan,Heat Wave,Attach,NA,6,7,0,NA,3,Rise Nation,6
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,FaZe Clan,Kinetic A,Enable,NA,27,30,0:37,NA,131,Cloud9,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,FaZe Clan,Tempest,Clayster,NA,21,28,0:23,NA,131,Cloud9,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,FaZe Clan,Active C,ZooMaa,NA,25,28,1:05,NA,131,Cloud9,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,FaZe Clan,Heat Wave,Attach,NA,18,30,0:22,NA,131,Cloud9,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Cloud9,Scythe,Assault,NA,26,19,0:54,NA,131,FaZe Clan,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Cloud9,Kinetic A,Havok,NA,27,24,0:52,NA,131,FaZe Clan,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Cloud9,Heat Wave,Swarley,NA,37,20,1:35,NA,131,FaZe Clan,250
+MLG_Orlando_FaZe Clan_Cloud9_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Cloud9,Active C,SiLLY,NA,26,28,1:47,NA,131,FaZe Clan,250
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,FaZe Clan,Glitch,Clayster,NA,7,5,0,NA,6,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,FaZe Clan,Active C,ZooMaa,NA,11,3,0,NA,6,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,FaZe Clan,Heat Wave,Attach,NA,5,7,0,NA,6,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,FaZe Clan,Psychosis,Enable,NA,7,6,2,NA,6,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,Cloud9,Heat Wave,SiLLY,NA,7,8,1,NA,6,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,Cloud9,Kinetic A,Havok,NA,7,6,0,NA,6,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,Cloud9,Psychosis,Assault,NA,5,8,1,NA,6,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_2,MLG_Orlando,LAN,Search and Destroy,Infection,Cloud9,Active C,Swarley,NA,2,8,1,NA,6,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,FaZe Clan,Tempest,Clayster,NA,23,20,0,NA,13,Cloud9,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,FaZe Clan,Heat Wave,ZooMaa,NA,24,19,0,NA,13,Cloud9,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,FaZe Clan,Active C,Attach,NA,21,20,3,NA,13,Cloud9,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,FaZe Clan,Kinetic A,Enable,NA,29,16,2,NA,13,Cloud9,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,Cloud9,Heat Wave,SiLLY,NA,17,25,0,NA,13,FaZe Clan,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,Cloud9,Kinetic A,Havok,NA,18,25,0,NA,13,FaZe Clan,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,Cloud9,Scythe,Assault,NA,20,24,1,NA,13,FaZe Clan,7
+MLG_Orlando_FaZe Clan_Cloud9_3,MLG_Orlando,LAN,Uplink,Evac,Cloud9,Active C,Swarley,NA,19,24,2,NA,13,FaZe Clan,7
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Psychosis,Clayster,NA,8,21,0,NA,2,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Scythe,ZooMaa,NA,16,19,0,NA,2,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Heat Wave,Attach,NA,12,17,1,NA,2,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Kinetic A,Enable,NA,20,11,1,NA,2,Cloud9,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Cloud9,Psychosis,SiLLY,NA,17,14,0,NA,2,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Cloud9,Kinetic A,Havok,NA,17,15,2,NA,2,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Cloud9,Tempest,Assault,NA,21,15,0,NA,2,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Cloud9,Heat Wave,Swarley,NA,13,12,1,NA,2,FaZe Clan,3
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,FaZe Clan,Glitch,Clayster,NA,6,8,0,NA,6,Cloud9,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,FaZe Clan,Active C,ZooMaa,NA,6,11,1,NA,6,Cloud9,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,FaZe Clan,Heat Wave,Attach,NA,12,7,0,NA,6,Cloud9,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,FaZe Clan,Psychosis,Enable,NA,6,9,3,NA,6,Cloud9,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Cloud9,Heat Wave,SiLLY,NA,9,5,1,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Cloud9,Kinetic A,Havok,NA,7,9,0,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Cloud9,Glitch,Assault,NA,11,7,2,NA,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Cloud9_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Cloud9,Active C,Swarley,NA,8,9,1,NA,6,FaZe Clan,5
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Tempest,Karma,3350,23,27,1:55,6,250,Team Kaliber,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Active C,Crimsix,4450,30,29,1:00,9,250,Team Kaliber,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Kinetic A,Scump,4875,32,27,1:14,10,250,Team Kaliber,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Scythe,FormaL,3050,22,23,0:50,5,250,Team Kaliber,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Kaliber,Tempest,Goonjar,4175,32,24,0:35,2,250,OpTic Gaming,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Kaliber,Kinetic A,ColeChan,4150,29,30,1:13,7,250,OpTic Gaming,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Kaliber,Active C,Happy,3075,22,26,2:20,4,250,OpTic Gaming,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Kaliber,Purifier,Theory,3325,22,27,0:58,5,250,OpTic Gaming,217
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Psychosis,Karma,1700,15,3,0,1,6,Team Kaliber,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Glitch,Crimsix,425,3,6,0,0,6,Team Kaliber,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Kinetic A,Scump,975,7,4,1,0,6,Team Kaliber,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Active C,FormaL,500,4,5,0,0,6,Team Kaliber,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Kaliber,Glitch,Goonjar,250,2,7,0,0,6,OpTic Gaming,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Kaliber,Kinetic A,ColeChan,850,7,8,1,0,6,OpTic Gaming,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Kaliber,Active C,Happy,750,6,6,0,0,6,OpTic Gaming,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Kaliber,Psychosis,Theory,300,3,8,0,0,6,OpTic Gaming,2
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,OpTic Gaming,Tempest,Karma,3000,23,24,0,1,10,Team Kaliber,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,OpTic Gaming,Active C,Crimsix,3775,37,17,0,0,10,Team Kaliber,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,OpTic Gaming,Kinetic A,Scump,3125,24,23,0,2,10,Team Kaliber,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,OpTic Gaming,Scythe,FormaL,3775,21,20,3,1,10,Team Kaliber,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,Team Kaliber,Tempest,Goonjar,2950,21,24,2,0,10,OpTic Gaming,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,Team Kaliber,Kinetic A,ColeChan,2400,19,29,1,0,10,OpTic Gaming,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,Team Kaliber,Scythe,Happy,2975,27,25,0,0,10,OpTic Gaming,8
+MLG_Orlando_OpTic Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Infection,Team Kaliber,Active C,Theory,2425,17,28,1,0,10,OpTic Gaming,8
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Scythe,NAMELESS,NA,34,40,1:56,NA,206,OpTic Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Heat Wave,SpaceLy,NA,35,37,1:42,NA,206,OpTic Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Kinetic A,Saints,NA,33,38,0:43,NA,206,OpTic Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Active C,StuDyy,NA,22,39,1:13,NA,206,OpTic Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Kinetic A,Scump,NA,48,34,1:11,NA,206,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Heat Wave,Karma,NA,23,27,2:27,NA,206,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Scythe,FormaL,NA,32,28,0:39,NA,206,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Active C,Crimsix,NA,51,35,1:12,NA,206,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Luminosity Gaming,Glitch,NAMELESS,NA,6,7,0,NA,6,OpTic Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Luminosity Gaming,Heat Wave,SpaceLy,NA,6,9,1,NA,6,OpTic Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Luminosity Gaming,Kinetic A,Saints,NA,11,9,0,NA,6,OpTic Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Luminosity Gaming,Active C,StuDyy,NA,8,5,3,NA,6,OpTic Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Kinetic A,Scump,NA,5,8,1,NA,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Heat Wave,Karma,NA,7,8,0,NA,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Active C,FormaL,NA,11,7,0,NA,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Glitch,Crimsix,NA,7,8,0,NA,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Scythe,NAMELESS,NA,23,25,1,NA,6,OpTic Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Heat Wave,SpaceLy,NA,22,22,0,NA,6,OpTic Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Kinetic A,Saints,NA,21,25,0,NA,6,OpTic Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Tempest,StuDyy,NA,17,25,2,NA,6,OpTic Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Kinetic A,Scump,NA,30,18,2,NA,6,Luminosity Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Heat Wave,Karma,NA,18,23,1,NA,6,Luminosity Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Scythe,FormaL,NA,25,21,1,NA,6,Luminosity Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Psychosis,Crimsix,NA,24,21,1,NA,6,Luminosity Gaming,13
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Luminosity Gaming,Scythe,NAMELESS,NA,16,17,0,NA,1,OpTic Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Luminosity Gaming,Heat Wave,SpaceLy,NA,16,18,1,NA,1,OpTic Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Luminosity Gaming,Kinetic A,Saints,NA,16,19,0,NA,1,OpTic Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,Luminosity Gaming,Psychosis,StuDyy,NA,6,12,0,NA,1,OpTic Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,OpTic Gaming,Kinetic A,Scump,NA,12,13,1,NA,1,Luminosity Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,OpTic Gaming,Heat Wave,Karma,NA,17,12,0,NA,1,Luminosity Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,OpTic Gaming,Scythe,FormaL,NA,15,15,0,NA,1,Luminosity Gaming,2
+MLG_Orlando_Luminosity Gaming_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Stronghold,OpTic Gaming,Psychosis,Crimsix,NA,22,14,1,NA,1,Luminosity Gaming,2
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Luminosity Gaming,Kinetic A,Saints,6250,45,28,1:30,9,250,Team Kaliber,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Luminosity Gaming,Active C,StuDyy,4200,29,36,0:38,8,250,Team Kaliber,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Luminosity Gaming,Tempest,NAMELESS,5200,35,31,1:54,9,250,Team Kaliber,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Luminosity Gaming,Heat Wave,SpaceLy,5025,32,33,1:37,11,250,Team Kaliber,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Kaliber,Tempest,Goonjar,4225,30,36,0:39,9,250,Luminosity Gaming,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Kaliber,Heat Wave,Theory,5550,36,40,1:00,10,250,Luminosity Gaming,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Kaliber,Active C,Happy,4300,28,33,2:01,8,250,Luminosity Gaming,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Kaliber,Kinetic A,ColeChan,5075,34,32,0:57,7,250,Luminosity Gaming,209
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Kinetic A,Saints,1225,10,5,0,1,6,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Active C,StuDyy,1125,10,6,0,0,6,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Glitch,NAMELESS,750,5,8,0,0,6,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Heat Wave,SpaceLy,900,5,7,2,0,6,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Kaliber,Glitch,Goonjar,650,3,9,1,0,6,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Kaliber,Heat Wave,Theory,1325,10,6,1,0,6,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Kaliber,Active C,Happy,750,6,8,0,0,6,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_2,MLG_Orlando,LAN,Search and Destroy,Infection,Team Kaliber,Kinetic A,ColeChan,875,7,7,0,0,6,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Luminosity Gaming,Kinetic A,Saints,3500,31,19,0,1,7,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Luminosity Gaming,Scythe,StuDyy,2550,24,18,0,0,7,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Luminosity Gaming,Tempest,NAMELESS,2175,14,20,1,2,7,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Luminosity Gaming,Heat Wave,SpaceLy,2625,22,17,0,2,7,Team Kaliber,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Team Kaliber,Tempest,Goonjar,2950,25,21,0,1,7,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Team Kaliber,Heat Wave,Theory,1475,11,27,0,1,7,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Team Kaliber,Scythe,Happy,2400,20,22,0,1,7,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Team Kaliber_3,MLG_Orlando,LAN,Uplink,Evac,Team Kaliber,Kinetic A,ColeChan,2200,17,23,0,1,7,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Kinetic A,Saints,2625,18,22,0:58,4,250,Kingsmen,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Heat Wave,SpaceLy,3225,24,15,2:34,4,250,Kingsmen,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Tempest,NAMELESS,2900,19,18,1:17,2,250,Kingsmen,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Active C,StuDyy,2800,20,17,0:33,1,250,Kingsmen,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Kingsmen,Active C,Parasite,2675,18,22,0:12,2,250,Luminosity Gaming,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Kingsmen,Heat Wave,LlamaGod,2075,18,20,0:35,4,250,Luminosity Gaming,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Kingsmen,Tempest,MiRx,2325,16,24,0:16,3,250,Luminosity Gaming,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Breach,Kingsmen,Tempest,Maux,2775,19,18,1:04,5,250,Luminosity Gaming,92
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Luminosity Gaming,Kinetic A,Saints,1410,10,7,1,1,5,Kingsmen,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Luminosity Gaming,Active C,SpaceLy,900,7,10,1,0,5,Kingsmen,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Luminosity Gaming,Glitch,NAMELESS,925,9,8,0,0,5,Kingsmen,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Luminosity Gaming,Psychosis,StuDyy,250,2,10,0,0,5,Kingsmen,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Kingsmen,Overdrive,Parasite,1375,10,4,1,0,5,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Kingsmen,Active C,LlamaGod,1100,9,7,1,0,5,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Kingsmen,Kinetic A,MiRx,750,7,9,0,0,5,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Fringe,Kingsmen,Psychosis,Maux,1100,9,8,0,1,5,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Kinetic A,Saints,1975,19,21,0,0,6,Kingsmen,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Heat Wave,SpaceLy,2625,21,19,0,2,6,Kingsmen,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Tempest,NAMELESS,2500,20,19,0,2,6,Kingsmen,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Scythe,StuDyy,1975,15,19,0,2,6,Kingsmen,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Kingsmen,Psychosis,Parasite,3025,25,17,0,1,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Kingsmen,Heat Wave,LlamaGod,2325,18,22,0,2,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Kingsmen,Kinetic A,MiRx,2475,21,22,0,0,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Infection,Kingsmen,Tempest,Maux,1925,14,17,0,2,6,Luminosity Gaming,5
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Luminosity Gaming,Kinetic A,Saints,2675,21,19,1,0,2,Kingsmen,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Luminosity Gaming,Heat Wave,SpaceLy,2650,22,15,1,0,2,Kingsmen,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Luminosity Gaming,Tempest,NAMELESS,1625,13,16,0,0,2,Kingsmen,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Luminosity Gaming,Scythe,StuDyy,2100,15,17,0,2,2,Kingsmen,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Kingsmen,Psychosis,Parasite,2275,19,19,0,1,2,Luminosity Gaming,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Kingsmen,Heat Wave,LlamaGod,2175,17,22,1,1,2,Luminosity Gaming,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Kingsmen,Kinetic A,MiRx,1700,13,22,0,1,2,Luminosity Gaming,1
+MLG_Orlando_Luminosity Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Evac,Kingsmen,Tempest,Maux,2150,17,8,0,2,2,Luminosity Gaming,1
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Heat Wave,Karma,NA,33,29,1:06,NA,250,Kingsmen,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Kinetic A,Scump,NA,25,23,1:40,NA,250,Kingsmen,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Purifier,Crimsix,NA,30,29,1:25,NA,250,Kingsmen,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Scythe,FormaL,NA,26,23,1:35,NA,250,Kingsmen,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Kingsmen,Kinetic A,MiRx,NA,25,30,0:37,NA,250,OpTic Gaming,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Kingsmen,Purifier,Parasite,NA,26,26,0:58,NA,250,OpTic Gaming,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Kingsmen,Scythe,Maux,NA,26,29,0:36,NA,250,OpTic Gaming,152
+MLG_Orlando_OpTic Gaming_Kingsmen_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Kingsmen,Heat Wave,LlamaGod,NA,27,29,1:27,NA,250,OpTic Gaming,152
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Overdrive,Karma,NA,7,5,0,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Kinetic A,Scump,NA,9,6,4,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Active C,Crimsix,NA,5,8,0,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Glitch,FormaL,NA,9,7,0,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,Kingsmen,Kinetic A,MiRx,NA,2,8,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,Kingsmen,Overdrive,Parasite,NA,10,7,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,Kingsmen,Psychosis,Maux,NA,6,7,2,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_2,MLG_Orlando,LAN,Search and Destroy,Infection,Kingsmen,Active C,LlamaGod,NA,8,8,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Heat Wave,Karma,NA,17,23,0,NA,6,Kingsmen,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Kinetic A,Scump,NA,16,22,0,NA,6,Kingsmen,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Psychosis,Crimsix,NA,20,24,1,NA,6,Kingsmen,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Scythe,FormaL,NA,19,21,0,NA,6,Kingsmen,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,Kingsmen,Kinetic A,MiRx,NA,29,19,0,NA,6,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,Kingsmen,Psychosis,Parasite,NA,14,17,1,NA,6,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,Kingsmen,Tempest,Maux,NA,21,16,1,NA,6,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Kingsmen_3,MLG_Orlando,LAN,Uplink,Evac,Kingsmen,Heat Wave,LlamaGod,NA,25,21,1,NA,6,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Heat Wave,Karma,NA,9,19,0,NA,2,Kingsmen,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Psychosis,Scump,NA,15,20,0,NA,2,Kingsmen,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Tempest,Crimsix,NA,11,19,1,NA,2,Kingsmen,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Scythe,FormaL,NA,17,17,1,NA,2,Kingsmen,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Kingsmen,Psychosis,MiRx,NA,16,14,1,NA,2,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Kingsmen,Scythe,Parasite,NA,24,9,2,NA,2,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Kingsmen,Tempest,Maux,NA,20,10,0,NA,2,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Kingsmen_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Kingsmen,Heat Wave,LlamaGod,NA,15,19,0,NA,2,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Heat Wave,Karma,NA,12,4,0,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Kinetic A,Scump,NA,6,6,3,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Active C,Crimsix,NA,11,7,0,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Glitch,FormaL,NA,3,6,0,NA,6,Kingsmen,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Kingsmen,Kinetic A,MiRx,NA,6,8,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Kingsmen,Overdrive,Parasite,NA,2,9,4,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Kingsmen,Active C,Maux,NA,5,8,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Kingsmen_5,MLG_Orlando,LAN,Search and Destroy,Redwood,Kingsmen,Heat Wave,LlamaGod,NA,11,8,0,NA,6,OpTic Gaming,4
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Kinetic A,Apathy,NA,41,31,1:18,NA,250,Rise Nation,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Active C,JKap,NA,25,35,1:42,NA,250,Rise Nation,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Scythe,SlasheR,NA,37,32,1:14,NA,250,Rise Nation,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Heat Wave,John,NA,33,34,1:04,NA,250,Rise Nation,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Heat Wave,Loony,NA,28,33,0:56,NA,250,Team Envy,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Scythe,Octane,NA,37,29,1:51,NA,250,Team Envy,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Active C,Classic,NA,30,38,1:05,NA,250,Team Envy,230
+MLG_Orlando_Team Envy_Rise Nation_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Rise Nation,Kinetic A,Slacked,NA,37,36,1:02,NA,250,Team Envy,230
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Heat Wave,Apathy,NA,6,5,0,NA,6,Rise Nation,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Psychosis,JKap,NA,7,2,2,NA,6,Rise Nation,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Active C,SlasheR,NA,6,5,0,NA,6,Rise Nation,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Glitch,John,NA,5,5,1,NA,6,Rise Nation,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Heat Wave,Loony,NA,4,6,0,NA,6,Team Envy,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Glitch,Octane,NA,2,6,0,NA,6,Team Envy,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Active C,Classic,NA,4,6,0,NA,6,Team Envy,1
+MLG_Orlando_Team Envy_Rise Nation_2,MLG_Orlando,LAN,Search and Destroy,Breach,Rise Nation,Kinetic A,Slacked,NA,7,6,0,NA,6,Team Envy,1
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Kinetic A,Apathy,NA,21,21,2,NA,11,Rise Nation,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Active C,JKap,NA,13,23,1,NA,11,Rise Nation,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Scythe,SlasheR,NA,23,23,0,NA,11,Rise Nation,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Heat Wave,John,NA,23,23,1,NA,11,Rise Nation,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Rise Nation,Heat Wave,Loony,NA,21,21,1,NA,11,Team Envy,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Rise Nation,Scythe,Octane,NA,27,19,0,NA,11,Team Envy,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Rise Nation,Active C,Classic,NA,20,22,2,NA,11,Team Envy,12
+MLG_Orlando_Team Envy_Rise Nation_3,MLG_Orlando,LAN,Uplink,Evac,Rise Nation,Kinetic A,Slacked,NA,21,21,2,NA,11,Team Envy,12
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Active C,JKap,NA,19,24,0,NA,2,Rise Nation,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Heat Wave,John,NA,18,28,0,NA,2,Rise Nation,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Kinetic A,Apathy,NA,23,19,2,NA,2,Rise Nation,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Scythe,SlasheR,NA,22,22,0,NA,2,Rise Nation,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Heat Wave,Loony,NA,22,20,0,NA,2,Team Envy,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Scythe,Octane,NA,27,17,1,NA,2,Team Envy,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Active C,Classic,NA,21,20,1,NA,2,Team Envy,3
+MLG_Orlando_Team Envy_Rise Nation_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Kinetic A,Slacked,NA,23,25,1,NA,2,Team Envy,3
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Psychosis,JKap,NA,2,8,1,NA,2,Rise Nation,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Glitch,John,NA,3,7,0,NA,2,Rise Nation,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Heat Wave,Apathy,NA,4,7,0,NA,2,Rise Nation,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Active C,SlasheR,NA,6,7,1,NA,2,Rise Nation,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Heat Wave,Loony,NA,8,4,0,NA,2,Team Envy,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Glitch,Octane,NA,8,4,1,NA,2,Team Envy,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Active C,Classic,NA,9,3,0,NA,2,Team Envy,6
+MLG_Orlando_Team Envy_Rise Nation_5,MLG_Orlando,LAN,Search and Destroy,Hunted,Rise Nation,Kinetic A,Slacked,NA,4,4,1,NA,2,Team Envy,6
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,Scythe,Sender,5050,32,34,2:23,6,240,OpTic Gaming,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,Tempest,Chino,6075,39,41,1:37,11,240,OpTic Gaming,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,Active C,Diabolic,5075,38,35,0:40,10,240,OpTic Gaming,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Ground Zero,Purifier,KiLLa,5250,37,37,1:10,14,240,OpTic Gaming,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Tempest,FormaL,5450,39,38,1:07,12,240,Ground Zero,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Purifier,Karma,4700,31,37,1:21,12,240,Ground Zero,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Active C,Scump,6300,43,34,1:49,14,240,Ground Zero,250
+MLG_Orlando_Ground Zero_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,War Mach,Crimsix,5175,34,37,1:24,12,240,Ground Zero,250
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Ground Zero,Overdrive,Sender,725,3,6,3,0,6,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Ground Zero,Heat Wave,Chino,1325,11,5,0,0,6,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Ground Zero,Glitch,Diabolic,1250,9,6,0,1,6,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,Ground Zero,Active C,KiLLa,175,9,5,0,0,6,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Glitch,FormaL,775,5,8,1,0,6,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Heat Wave,Karma,650,4,9,0,0,6,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Kinetic A,Scump,950,6,8,1,1,6,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Breach,OpTic Gaming,Heat Wave,Crimsix,800,7,8,0,0,6,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,Tempest,Sender,2775,19,28,0,1,3,OpTic Gaming,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,Scythe,Chino,2725,23,27,0,0,3,OpTic Gaming,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,Heat Wave,Diabolic,2275,19,22,0,0,3,OpTic Gaming,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,Ground Zero,Active C,KiLLa,1475,11,30,1,0,3,OpTic Gaming,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Scythe,FormaL,2675,22,19,0,0,3,Ground Zero,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Heat Wave,Karma,2900,18,19,4,1,3,Ground Zero,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Psychosis,Scump,4000,35,17,1,0,3,Ground Zero,20
+MLG_Orlando_Ground Zero_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Active C,Crimsix,4225,32,17,4,1,3,Ground Zero,20
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,Psychosis,Sender,2350,18,24,0,1,1,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,Scythe,Chino,2550,19,21,0,2,1,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,Heat Wave,Diabolic,3055,20,19,1,1,1,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Ground Zero,Vision P,KiLLa,1775,13,24,0,1,1,OpTic Gaming,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Scythe,FormaL,3400,29,15,0,1,1,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Heat Wave,Karma,1925,12,21,1,0,1,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Psychosis,Scump,2450,16,19,0,2,1,Ground Zero,4
+MLG_Orlando_Ground Zero_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Fringe,OpTic Gaming,Tempest,Crimsix,4600,31,15,3,0,1,Ground Zero,4
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Scythe,Octane,NA,33,32,0:49,NA,250,OpTic Gaming,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Active C,Classic,NA,37,25,1:53,NA,250,OpTic Gaming,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Heat Wave,Loony,NA,25,23,1:28,NA,250,OpTic Gaming,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Rise Nation,Psychosis,Slacked,NA,30,31,1:40,NA,250,OpTic Gaming,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Heat Wave,Karma,NA,29,30,1:27,NA,250,Rise Nation,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Psychosis,Scump,NA,27,29,1:08,NA,250,Rise Nation,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Scythe,FormaL,NA,24,29,0:55,NA,250,Rise Nation,204
+MLG_Orlando_Rise Nation_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,OpTic Gaming,Active C,Crimsix,NA,29,37,0:51,NA,250,Rise Nation,204
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Rise Nation,Glitch,Octane,NA,6,6,0,NA,6,OpTic Gaming,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Rise Nation,Active C,Classic,NA,8,7,1,NA,6,OpTic Gaming,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Rise Nation,Heat Wave,Loony,NA,7,7,0,NA,6,OpTic Gaming,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Rise Nation,Kinetic A,Slacked,NA,6,5,0,NA,6,OpTic Gaming,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Heat Wave,Karma,NA,4,7,0,NA,6,Rise Nation,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Kinetic A,Scump,NA,9,7,1,NA,6,Rise Nation,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Glitch,FormaL,NA,4,6,0,NA,6,Rise Nation,4
+MLG_Orlando_Rise Nation_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,OpTic Gaming,Active C,Crimsix,NA,8,7,0,NA,6,Rise Nation,4
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Scythe,Octane,NA,18,23,0,NA,8,OpTic Gaming,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Psychosis,Classic,NA,26,23,0,NA,8,OpTic Gaming,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Heat Wave,Loony,NA,17,23,1,NA,8,OpTic Gaming,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Rise Nation,Tempest,Slacked,NA,30,23,1,NA,8,OpTic Gaming,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Heat Wave,Karma,NA,21,26,1,NA,8,Rise Nation,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Psychosis,Scump,NA,23,22,1,NA,8,Rise Nation,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Scythe,FormaL,NA,29,19,0,NA,8,Rise Nation,9
+MLG_Orlando_Rise Nation_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Tempest,Crimsix,NA,19,24,1,NA,8,Rise Nation,9
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,Rise Nation,Scythe,Octane,NA,12,19,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,Rise Nation,Tempest,Classic,NA,15,23,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,Rise Nation,Heat Wave,Loony,NA,13,21,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,Rise Nation,Psychosis,Slacked,NA,17,20,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Heat Wave,Karma,NA,18,17,0,NA,0,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Psychosis,Scump,NA,26,16,0,NA,0,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Scythe,FormaL,NA,22,15,2,NA,0,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Vision P,Crimsix,NA,16,10,4,NA,0,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Glitch,Octane,NA,4,7,0,NA,1,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Active C,Classic,NA,4,6,1,NA,1,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Heat Wave,Loony,NA,5,6,0,NA,1,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Kinetic A,Slacked,NA,4,6,0,NA,1,OpTic Gaming,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,OpTic Gaming,Heat Wave,Karma,NA,6,3,1,NA,1,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,OpTic Gaming,Kinetic A,Scump,NA,6,4,0,NA,1,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,OpTic Gaming,Psychosis,FormaL,NA,7,4,0,NA,1,Rise Nation,6
+MLG_Orlando_Rise Nation_OpTic Gaming_5,MLG_Orlando,LAN,Search and Destroy,Stronghold,OpTic Gaming,Active C,Crimsix,NA,6,6,0,NA,1,Rise Nation,6
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Tempest,Aqua,NA,37,30,1:08,NA,250,Luminosity Gaming,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Kinetic A,FeLonY,NA,43,35,1:30,NA,250,Luminosity Gaming,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Active C,Faccento,NA,31,30,1:07,NA,250,Luminosity Gaming,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Elevate,Heat Wave,Nagafen,NA,31,38,2:05,NA,250,Luminosity Gaming,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Heat Wave,SpaceLy,NA,35,34,1:16,NA,250,Elevate,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Tempest,NAMELESS,NA,38,36,0:54,NA,250,Elevate,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Active C,StuDyy,NA,35,35,1:05,NA,250,Elevate,198
+MLG_Orlando_Elevate_Luminosity Gaming_1,MLG_Orlando,LAN,Hardpoint,Evac,Luminosity Gaming,Kinetic A,Saints,NA,25,38,1:00,NA,250,Elevate,198
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Heat Wave,Aqua,NA,8,6,0,NA,6,Luminosity Gaming,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Kinetic A,FeLonY,NA,8,7,1,NA,6,Luminosity Gaming,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Glitch,Faccento,NA,14,6,1,NA,6,Luminosity Gaming,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Elevate,Active C,Nagafen,NA,1,6,0,NA,6,Luminosity Gaming,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Heat Wave,SpaceLy,NA,5,9,4,NA,6,Elevate,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Glitch,NAMELESS,NA,7,6,0,NA,6,Elevate,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Active C,StuDyy,NA,3,7,0,NA,6,Elevate,4
+MLG_Orlando_Elevate_Luminosity Gaming_2,MLG_Orlando,LAN,Search and Destroy,Infection,Luminosity Gaming,Kinetic A,Saints,NA,10,9,0,NA,6,Elevate,4
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Tempest,Aqua,NA,24,25,0,NA,13,Luminosity Gaming,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Kinetic A,FeLonY,NA,30,24,0,NA,13,Luminosity Gaming,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Psychosis,Faccento,NA,27,18,3,NA,13,Luminosity Gaming,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Heat Wave,Nagafen,NA,19,23,1,NA,13,Luminosity Gaming,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Heat Wave,SpaceLy,NA,20,29,0,NA,13,Elevate,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Tempest,NAMELESS,NA,24,21,0,NA,13,Elevate,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Scythe,StuDyy,NA,22,25,1,NA,13,Elevate,5
+MLG_Orlando_Elevate_Luminosity Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Luminosity Gaming,Kinetic A,Saints,NA,24,25,0,NA,13,Elevate,5
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,OpTic Gaming,Heat Wave,Karma,NA,44,34,1:07,NA,250,Elevate,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,OpTic Gaming,Scythe,FormaL,NA,36,32,1:11,NA,250,Elevate,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,OpTic Gaming,Active C,Scump,NA,32,38,2:29,NA,250,Elevate,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,OpTic Gaming,Tempest,Crimsix,NA,30,40,0:53,NA,250,Elevate,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,Elevate,Heat Wave,Nagafen,NA,27,37,2:19,NA,250,OpTic Gaming,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,Elevate,Tempest,FeLonY,NA,42,37,0:46,NA,250,OpTic Gaming,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,Elevate,Active C,Faccento,NA,36,32,0:49,NA,250,OpTic Gaming,214
+MLG_Orlando_OpTic Gaming_Elevate_1,MLG_Orlando,LAN,Hardpoint,Fringe,Elevate,Scythe,Aqua,NA,39,36,0:26,NA,250,OpTic Gaming,214
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,OpTic Gaming,Heat Wave,Karma,NA,8,4,0,NA,6,Elevate,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,OpTic Gaming,Psychosis,FormaL,NA,5,7,0,NA,6,Elevate,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,OpTic Gaming,Kinetic A,Scump,NA,5,7,2,NA,6,Elevate,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,OpTic Gaming,Active C,Crimsix,NA,12,5,0,NA,6,Elevate,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,Elevate,Active C,Nagafen,NA,6,8,1,NA,6,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,Elevate,Kinetic A,FeLonY,NA,6,7,0,NA,6,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,Elevate,Glitch,Faccento,NA,7,6,1,NA,6,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Elevate_2,MLG_Orlando,LAN,Search and Destroy,Evac,Elevate,Heat Wave,Aqua,NA,4,9,0,NA,6,OpTic Gaming,3
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,OpTic Gaming,Heat Wave,Karma,NA,15,24,2,NA,11,Elevate,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,OpTic Gaming,Scythe,FormaL,NA,26,21,1,NA,11,Elevate,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,OpTic Gaming,Kinetic A,Scump,NA,31,25,1,NA,11,Elevate,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,OpTic Gaming,Active C,Crimsix,NA,30,30,0,NA,11,Elevate,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,Elevate,Active C,Nagafen,NA,18,26,3,NA,11,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,Elevate,Kinetic A,FeLonY,NA,25,34,1,NA,11,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,Elevate,Heat Wave,Faccento,NA,28,21,1,NA,11,OpTic Gaming,10
+MLG_Orlando_OpTic Gaming_Elevate_3,MLG_Orlando,LAN,Uplink,Breach,Elevate,Tempest,Aqua,NA,28,25,0,NA,11,OpTic Gaming,10
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Kinetic A,Saints,NA,24,26,0:59,NA,240,FaZe Clan,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Active C,StuDyy,NA,24,26,0:44,NA,240,FaZe Clan,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Scythe,NAMELESS,NA,18,27,1:06,NA,240,FaZe Clan,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,Luminosity Gaming,Heat Wave,SpaceLy,NA,21,21,3:01,NA,240,FaZe Clan,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Heat Wave,Attach,NA,23,21,1:10,NA,240,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Tempest,Clayster,NA,28,20,0:46,NA,240,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Kinetic A,Enable,NA,19,22,2:11,NA,240,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_1,MLG_Orlando,LAN,Hardpoint,Breach,FaZe Clan,Active C,ZooMaa,NA,29,24,1:47,NA,240,Luminosity Gaming,250
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Luminosity Gaming,Kinetic A,Saints,NA,5,6,0,NA,3,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Luminosity Gaming,Active C,StuDyy,NA,4,9,0,NA,3,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Luminosity Gaming,Glitch,NAMELESS,NA,7,6,0,NA,3,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Luminosity Gaming,Heat Wave,SpaceLy,NA,6,7,1,NA,3,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,FaZe Clan,Heat Wave,Attach,NA,3,7,0,NA,3,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,FaZe Clan,Glitch,Clayster,NA,9,4,0,NA,3,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,FaZe Clan,Psychosis,Enable,NA,4,4,1,NA,3,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,FaZe Clan,Active C,ZooMaa,NA,12,7,0,NA,3,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Psychosis,Saints,NA,20,22,0,NA,7,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Active C,StuDyy,NA,22,17,1,NA,7,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Scythe,NAMELESS,NA,14,21,1,NA,7,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,Luminosity Gaming,Heat Wave,SpaceLy,NA,23,19,0,NA,7,FaZe Clan,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Heat Wave,Attach,NA,15,21,0,NA,7,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Psychosis,Clayster,NA,13,20,0,NA,7,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Kinetic A,Enable,NA,22,17,0,NA,7,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_3,MLG_Orlando,LAN,Uplink,Infection,FaZe Clan,Scythe,ZooMaa,NA,29,21,0,NA,7,Luminosity Gaming,6
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Luminosity Gaming,Kinetic A,Saints,NA,18,21,0,NA,1,FaZe Clan,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Luminosity Gaming,Psychosis,StuDyy,NA,15,16,0,NA,1,FaZe Clan,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Luminosity Gaming,Scythe,NAMELESS,NA,11,18,1,NA,1,FaZe Clan,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Luminosity Gaming,Heat Wave,SpaceLy,NA,17,23,0,NA,1,FaZe Clan,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Heat Wave,Attach,NA,22,17,0,NA,1,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Psychosis,Clayster,NA,15,11,3,NA,1,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Kinetic A,Enable,NA,22,16,0,NA,1,Luminosity Gaming,4
+MLG_Orlando_Luminosity Gaming_FaZe Clan_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Scythe,ZooMaa,NA,19,17,1,NA,1,Luminosity Gaming,4
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Rise Nation,Scythe,Octane,2725,19,26,1:02,0,250,Team Envy,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Rise Nation,Heat Wave,Loony,4150,28,30,1:15,9,250,Team Envy,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Rise Nation,Active C,Classic,4350,31,25,0:48,6,250,Team Envy,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Rise Nation,Kinetic A,Slacked,4400,32,23,2:16,4,250,Team Envy,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Active C,JKap,3700,24,30,0:27,6,250,Rise Nation,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Kinetic A,Apathy,2375,17,26,1:25,4,250,Rise Nation,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Heat Wave,John,2625,17,27,2:00,4,250,Rise Nation,229
+MLG_Orlando_Rise Nation_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Scythe,SlasheR,5425,43,29,0:58,10,250,Rise Nation,229
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Glitch,Octane,350,3,7,0,0,4,Team Envy,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Heat Wave,Loony,1000,8,7,0,1,4,Team Envy,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Active C,Classic,875,7,7,0,0,4,Team Envy,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Rise Nation,Kinetic A,Slacked,700,4,7,2,0,4,Team Envy,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Envy,Psychosis,JKap,550,4,8,1,0,4,Rise Nation,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Envy,Heat Wave,Apathy,1500,11,5,0,1,4,Rise Nation,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Envy,Glitch,John,675,6,4,0,0,4,Rise Nation,6
+MLG_Orlando_Rise Nation_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Stronghold,Team Envy,Active C,SlasheR,1150,7,5,1,1,4,Rise Nation,6
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Rise Nation,Scythe,Octane,2375,20,20,0,0,4,Team Envy,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Rise Nation,Heat Wave,Loony,2425,21,24,1,0,4,Team Envy,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Rise Nation,Active C,Classic,2025,15,26,0,1,4,Team Envy,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Rise Nation,Kinetic A,Slacked,2525,18,26,0,1,4,Team Envy,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Active C,JKap,3725,23,16,3,2,4,Rise Nation,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Kinetic A,Apathy,2575,19,17,0,2,4,Rise Nation,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Heat Wave,John,3025,27,20,0,1,4,Rise Nation,15
+MLG_Orlando_Rise Nation_Team Envy_3,MLG_Orlando,LAN,Uplink,Infection,Team Envy,Scythe,SlasheR,2950,26,21,2,0,4,Rise Nation,15
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Scythe,Octane,3200,22,21,0,2,2,Team Envy,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Heat Wave,Loony,2050,15,22,1,0,2,Team Envy,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Active C,Classic,1700,13,23,0,0,2,Team Envy,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Rise Nation,Kinetic A,Slacked,2750,20,23,1,1,2,Team Envy,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Active C,JKap,2625,19,21,0,1,2,Rise Nation,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Kinetic A,Apathy,3225,24,15,1,2,2,Rise Nation,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Heat Wave,John,2825,20,19,1,2,2,Rise Nation,4
+MLG_Orlando_Rise Nation_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Scythe,SlasheR,3375,25,16,2,0,2,Rise Nation,4
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,FaZe Clan,Active C,ZooMaa,5650,44,44,1:39,10,250,Team Envy,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,FaZe Clan,Heat Wave,Attach,5175,30,32,1:48,4,250,Team Envy,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,FaZe Clan,Tempest,Clayster,6125,39,38,0:54,7,250,Team Envy,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,FaZe Clan,Kinetic A,Enable,4450,35,32,0:53,4,250,Team Envy,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,Team Envy,Tempest,SlasheR,5525,42,39,0:23,11,250,FaZe Clan,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,Team Envy,Kinetic A,Apathy,4750,33,35,1:02,7,250,FaZe Clan,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,Team Envy,Heat Wave,John,5075,31,40,1:29,11,250,FaZe Clan,244
+MLG_Orlando_FaZe Clan_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Fringe,Team Envy,Active C,JKap,5675,40,34,2:25,9,250,FaZe Clan,244
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,FaZe Clan,Active C,ZooMaa,700,6,8,0,0,6,Team Envy,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,FaZe Clan,Heat Wave,Attach,1425,10,7,1,2,6,Team Envy,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,FaZe Clan,Glitch,Clayster,1050,10,8,0,0,6,Team Envy,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,FaZe Clan,Psychosis,Enable,1325,8,4,2,1,6,Team Envy,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,Team Envy,Active C,SlasheR,1125,10,8,0,0,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,Team Envy,Heat Wave,Apathy,925,7,8,0,1,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,Team Envy,Glitch,John,600,5,10,0,0,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Evac,Team Envy,Psychosis,JKap,1285,5,8,4,1,6,FaZe Clan,5
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,FaZe Clan,Psychosis,ZooMaa,1850,16,25,0,1,4,Team Envy,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,FaZe Clan,Heat Wave,Attach,1825,13,26,1,1,4,Team Envy,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,FaZe Clan,Tempest,Clayster,2650,24,23,0,0,4,Team Envy,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,FaZe Clan,Kinetic A,Enable,2625,25,21,0,0,4,Team Envy,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,Team Envy,Tempest,SlasheR,3150,28,19,0,2,4,FaZe Clan,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,Team Envy,Kinetic A,Apathy,3025,21,21,2,1,4,FaZe Clan,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,Team Envy,Heat Wave,John,3025,28,20,0,0,4,FaZe Clan,11
+MLG_Orlando_FaZe Clan_Team Envy_3,MLG_Orlando,LAN,Uplink,Breach,Team Envy,Psychosis,JKap,2625,16,20,2,0,4,FaZe Clan,11
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Psychosis,ZooMaa,2650,21,16,1,1,1,Team Envy,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Heat Wave,Attach,1785,15,17,0,0,1,Team Envy,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Tempest,Clayster,575,4,22,0,0,1,Team Envy,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,FaZe Clan,Kinetic A,Enable,2275,17,13,0,0,1,Team Envy,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Tempest,SlasheR,1600,13,17,0,0,1,FaZe Clan,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Kinetic A,Apathy,2825,24,14,1,0,1,FaZe Clan,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Heat Wave,John,2700,18,13,1,2,1,FaZe Clan,2
+MLG_Orlando_FaZe Clan_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Fringe,Team Envy,Psychosis,JKap,1850,13,13,0,0,1,FaZe Clan,2
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Heat Wave,Nagafen,NA,25,28,1:44,NA,184,Team Envy,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Kinetic A,FeLonY,NA,28,31,0:46,NA,184,Team Envy,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Active C,Faccento,NA,25,32,0:51,NA,184,Team Envy,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Elevate,Tempest,Aqua,NA,26,30,0:39,NA,184,Team Envy,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Active C,JKap,NA,28,22,1:37,NA,184,Elevate,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Kinetic A,Apathy,NA,33,26,1:00,NA,184,Elevate,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Tempest,SlasheR,NA,31,26,1:35,NA,184,Elevate,250
+MLG_Orlando_Elevate_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Heat Wave,John,NA,29,30,1:27,NA,184,Elevate,250
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Active C,Nagafen,0,4,7,1,0,3,Team Envy,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Kinetic A,FeLonY,0,5,7,0,0,3,Team Envy,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Heat Wave,Faccento,0,3,8,0,0,3,Team Envy,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Elevate,Glitch,Aqua,0,8,6,0,0,3,Team Envy,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Psychosis,JKap,0,5,6,2,0,3,Elevate,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Kinetic A,Apathy,0,10,4,0,0,3,Elevate,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Active C,SlasheR,0,3,5,0,0,3,Elevate,6
+MLG_Orlando_Elevate_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Breach,Team Envy,Heat Wave,John,0,8,6,0,0,3,Elevate,6
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Active C,Nagafen,0,15,26,1,0,4,Team Envy,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Kinetic A,FeLonY,0,27,29,0,0,4,Team Envy,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Heat Wave,Faccento,0,16,26,0,0,4,Team Envy,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Elevate,Tempest,Aqua,0,16,25,0,0,4,Team Envy,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Active C,JKap,0,19,22,5,0,4,Elevate,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Kinetic A,Apathy,0,25,16,2,0,4,Elevate,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Tempest,SlasheR,0,31,18,1,0,4,Elevate,19
+MLG_Orlando_Elevate_Team Envy_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Heat Wave,John,0,31,18,0,0,4,Elevate,19
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Active C,Crimsix,NA,20,31,0:12,NA,231,Team Envy,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Heat Wave,Karma,NA,24,30,1:36,NA,231,Team Envy,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Scythe,FormaL,NA,27,26,1:29,NA,231,Team Envy,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,OpTic Gaming,Purifier,Scump,NA,31,29,1:40,NA,231,Team Envy,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Active C,JKap,NA,29,28,1:30,NA,231,OpTic Gaming,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Psychosis,Apathy,NA,25,22,2:03,NA,231,OpTic Gaming,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Heat Wave,John,NA,33,28,1:38,NA,231,OpTic Gaming,250
+MLG_Orlando_OpTic Gaming_Team Envy_1,MLG_Orlando,LAN,Hardpoint,Breach,Team Envy,Scythe,SlasheR,NA,29,25,1:16,NA,231,OpTic Gaming,250
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,OpTic Gaming,Active C,Crimsix,NA,1,8,0,NA,6,Team Envy,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,OpTic Gaming,Heat Wave,Karma,NA,7,7,0,NA,6,Team Envy,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,OpTic Gaming,Psychosis,FormaL,NA,7,6,0,NA,6,Team Envy,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,OpTic Gaming,Kinetic A,Scump,NA,10,5,2,NA,6,Team Envy,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Psychosis,JKap,NA,5,6,1,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Heat Wave,Apathy,NA,5,8,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Glitch,John,NA,7,5,2,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Team Envy_2,MLG_Orlando,LAN,Search and Destroy,Hunted,Team Envy,Active C,SlasheR,NA,9,6,0,NA,6,OpTic Gaming,4
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Active C,Crimsix,NA,19,20,2,NA,14,Team Envy,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Heat Wave,Karma,NA,16,25,1,NA,14,Team Envy,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Scythe,FormaL,NA,16,20,1,NA,14,Team Envy,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,OpTic Gaming,Psychosis,Scump,NA,26,22,1,NA,14,Team Envy,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Active C,JKap,NA,18,20,0,NA,14,OpTic Gaming,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Psychosis,Apathy,NA,15,20,0,NA,14,OpTic Gaming,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Heat Wave,John,NA,23,21,1,NA,14,OpTic Gaming,9
+MLG_Orlando_OpTic Gaming_Team Envy_3,MLG_Orlando,LAN,Uplink,Evac,Team Envy,Scythe,SlasheR,NA,30,18,0,NA,14,OpTic Gaming,9
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Active C,Crimsix,NA,26,14,3,NA,3,Team Envy,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Heat Wave,Karma,NA,14,18,0,NA,3,Team Envy,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Scythe,FormaL,NA,13,19,0,NA,3,Team Envy,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,OpTic Gaming,Psychosis,Scump,NA,22,19,0,NA,3,Team Envy,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,Team Envy,Psychosis,JKap,NA,16,19,0,NA,3,OpTic Gaming,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,Team Envy,Active C,Apathy,NA,15,16,1,NA,3,OpTic Gaming,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,Team Envy,Heat Wave,John,NA,18,21,0,NA,3,OpTic Gaming,1
+MLG_Orlando_OpTic Gaming_Team Envy_4,MLG_Orlando,LAN,Capture the Flag,Breach,Team Envy,Scythe,SlasheR,NA,21,18,0,NA,3,OpTic Gaming,1
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Active C,Crimsix,NA,6,7,0,NA,3,Team Envy,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Heat Wave,Karma,NA,3,7,0,NA,3,Team Envy,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Psychosis,FormaL,NA,4,7,0,NA,3,Team Envy,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,OpTic Gaming,Kinetic A,Scump,NA,5,7,2,NA,3,Team Envy,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Psychosis,JKap,NA,4,5,1,NA,3,OpTic Gaming,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Heat Wave,Apathy,NA,5,3,0,NA,3,OpTic Gaming,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Glitch,John,NA,6,5,0,NA,3,OpTic Gaming,6
+MLG_Orlando_OpTic Gaming_Team Envy_5,MLG_Orlando,LAN,Search and Destroy,Fringe,Team Envy,Active C,SlasheR,NA,13,5,0,NA,3,OpTic Gaming,6
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Active C,JKap,NA,39,38,1:14,NA,226,OpTic Gaming,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Psychosis,Apathy,NA,32,28,1:31,NA,226,OpTic Gaming,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Heat Wave,John,NA,31,34,1:29,NA,226,OpTic Gaming,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,Team Envy,Scythe,SlasheR,NA,42,40,0:49,NA,226,OpTic Gaming,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Active C,Crimsix,NA,28,38,1:38,NA,226,Team Envy,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Heat Wave,Karma,NA,40,34,1:18,NA,226,Team Envy,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,Scythe,FormaL,NA,41,34,1:21,NA,226,Team Envy,250
+MLG_Orlando_Team Envy_OpTic Gaming_1,MLG_Orlando,LAN,Hardpoint,Stronghold,OpTic Gaming,War Mach,Scump,NA,31,39,1:20,NA,226,Team Envy,250
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,Team Envy,Psychosis,JKap,NA,0,6,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,Team Envy,Heat Wave,Apathy,NA,1,6,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,Team Envy,Glitch,John,NA,2,6,0,NA,0,OpTic Gaming,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,Team Envy,Active C,SlasheR,NA,5,6,1,NA,0,OpTic Gaming,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Active C,Crimsix,NA,9,2,0,NA,0,Team Envy,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Heat Wave,Karma,NA,6,2,0,NA,0,Team Envy,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Psychosis,FormaL,NA,3,2,0,NA,0,Team Envy,6
+MLG_Orlando_Team Envy_OpTic Gaming_2,MLG_Orlando,LAN,Search and Destroy,Redwood,OpTic Gaming,Kinetic A,Scump,NA,5,2,3,NA,0,Team Envy,6
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Active C,JKap,NA,15,24,3,NA,8,OpTic Gaming,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Psychosis,Apathy,NA,26,26,1,NA,8,OpTic Gaming,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Heat Wave,John,NA,16,26,0,NA,8,OpTic Gaming,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,Team Envy,Scythe,SlasheR,NA,18,20,0,NA,8,OpTic Gaming,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Active C,Crimsix,NA,27,23,2,NA,8,Team Envy,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Heat Wave,Karma,NA,17,21,1,NA,8,Team Envy,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Scythe,FormaL,NA,25,15,3,NA,8,Team Envy,15
+MLG_Orlando_Team Envy_OpTic Gaming_3,MLG_Orlando,LAN,Uplink,Fringe,OpTic Gaming,Psychosis,Scump,NA,27,16,0,NA,8,Team Envy,15
